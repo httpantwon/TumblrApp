@@ -4,7 +4,7 @@ Submitted by: **Antwon Walls**
 
 **Tumblr Feed** is an app that fetches a feed of real blog posts from the Tumblr API and displays them in a native iOS table view, which displays rows of vertically scrolling content in a single column (like call log, contacts, mail, settings, etc.)
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
